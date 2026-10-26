@@ -1,4 +1,4 @@
-# Hotel Booking Cancellation Analysis Dashboard
+# Hotel Booking Cancellation Analysis
 
 ## Project Overview
 
